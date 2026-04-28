@@ -1,0 +1,5 @@
+1. Program to display a String "Welcome to MIPS Assembly Programming"
+2. Program to prompt for two numbers and display their sum
+3. Program to depict the use of mul and mult command for finding the product of two numbers
+4. Program to divide two number assigning immediate values
+5. Program to represent the use of registers mfhi and mflo in division operation

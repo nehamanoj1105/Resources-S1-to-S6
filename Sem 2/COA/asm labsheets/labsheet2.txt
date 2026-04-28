@@ -1,0 +1,5 @@
+1. Write a the MIPS code to represent the C language code, i = N*N + 3*N, where N is a number prompted from the user.
+2. Write a program to find the product of first n numbers.
+3. Write a program to read a number and check of it is odd or even
+4. Write a program in MIPS assembly language that computes the area of a rectangle given the width and the height. The width and height are read from the standard input after prompting the user, and then the program computes the area and prints it on the standard output
+5. Write a program in MIPS assembly language to swap two values. Get input from the user and display the values on screen before and after swap operation.
